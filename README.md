@@ -3,15 +3,14 @@
 ![readme](https://github.com/amancd/MedApp/assets/116139327/3bd00012-e5ec-4ff7-888a-65d26acab786)
 
 
-An AI Integrated Chat App to help rural people get Health Care facilities online. This app have features like:
-- IOMT
+An application designed to centralise a nation level health infrastructure. Currently v0.2 has features such as:
 - Book Appointment
 - View Bookings
 - Order Medicine
-- Track Order
+- Track medcine Order
 - E-Health Record
 - Emergency
-- Chat With Ved
+- Chat With Ved (AI assistant)
 
 Hospital Dashboard
 - Accept or Reject Bookings
@@ -30,4 +29,6 @@ Pharma Dashboard
 - Track Orders
 - Prescription
 
-Additionally we can implement Insurance Feature also.
+Future prospects include:
+- Insurance facilities
+- Interfacing multiple IOMT devices (Internet of Medical Things)
